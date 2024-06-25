@@ -36,3 +36,4 @@ Duplication is ok. Please write your favorite sports.
 - Badminton
 - Netball
 - badminton
+- Swimming
