@@ -26,4 +26,5 @@ Please write your favorite places in Japan below.</br>
 ・Ryugashido</br>
 ・NAIST</br>
 ・Otaru</br>
+・Makino Metasequoia tree-lined road</br>
 ・Kobe</br>
