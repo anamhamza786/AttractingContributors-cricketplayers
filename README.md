@@ -28,3 +28,4 @@ Please write your favorite places in Japan below.</br>
 ・Otaru</br>
 ・Makino Metasequoia tree-lined road</br>
 ・Kobe</br>
+. Nara
