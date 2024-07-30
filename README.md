@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some favorite Cricket Players Name.
 9. Azam Khan
 10. Shaheen Afridi
 11. Javed miandad
+12. Muhammad Rizwan
